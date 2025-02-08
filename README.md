@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Soni</h1>
-<h3 align="center">A passionate Software developer. I am a passionate software developer with a strong interest in creating innovative solutions. I have worked on projects using Java Spring Boot for backend and React for frontend development, building full-stack applications. I love exploring new technologies and continuouslmproving my skills.</h3>
+<h3 align="center">A passionate Software developer. I am a passionate software developer interested in creating innovative solutions. I have worked on projects using Java Spring Boot for backend and React for frontend development, building full-stack applications. I love exploring new technologies and continuously lmproving my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragsoni123&label=Profile%20views&color=0e75b6&style=flat" alt="chiragsoni123" /> </p>
 
