@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Soni</h1>
-<h3 align="center">A passionate Software developer. I am a passionate software developer interested in creating innovative solutions. I have worked on projects using Java Spring Boot for backend and React for frontend development, building full-stack applications. I love exploring new technologies and continuously lmproving my skills.</h3>
+<h3 align="center">A passionate Software developer. I am a passionate software developer interested in creating innovative solutions. I have worked on projects using Java Spring Boot for backend and React for frontend development, building full-stack applications. I love exploring new technologies and continuously improving my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragsoni123&label=Profile%20views&color=0e75b6&style=flat" alt="chiragsoni123" /> </p>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chirag-soni-600967244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-soni-600967244" height="30" width="40" /></a>
-<a href="https://instagram.com/chirag_.soniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag_.soniii" height="30" width="40" /></a>
+<a href="https://instagram.com/chirag.soniiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag_.soniii" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chirag_soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chirag_soni" height="30" width="40" /></a>
 </p>
 
