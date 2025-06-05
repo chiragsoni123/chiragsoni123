@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragsoni123&label=Profile%20views&color=0e75b6&style=flat" alt="chiragsoni123" /> </p>
 
-- 🔭 I’m currently working on [Fooddy](https://github.com/chiragsoni123/Fooddy-backend)
+- 🔭 I’m currently working on [TradePlus](https://github.com/chiragsoni123/tradingApp-backend)
 
 - 🌱 I’m currently learning **Java Spring boot**
 
